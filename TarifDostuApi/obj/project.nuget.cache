@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "hD+Oqd2wyV/vtolh0Gb+w5I9nRiealh/94APVC5yDQscT+SUW28R9Bi5au62PxVJ5XyGpMExARnXJoODLGVTQQ==",
+  "dgSpecHash": "IsXbz9Zj5RBJ7r2wH+fZmQgbhhXwe24DCBFkcM8gNHlOcsNNE6pOlGtohK/6zCeKeGG6tdhLdlEOrrrfDWi/tw==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin-it\\Desktop\\Api\\TarifDostu\\TarifDostuApi\\TarifDostuApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\admin-it\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.2\\microsoft.aspnetcore.jsonpatch.8.0.2.nupkg.sha512",
+    "C:\\Users\\admin-it\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.2\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.2.nupkg.sha512",
+    "C:\\Users\\admin-it\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\admin-it\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\admin-it\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\admin-it\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\admin-it\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\admin-it\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\admin-it\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\admin-it\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
