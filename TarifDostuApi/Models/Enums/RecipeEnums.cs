@@ -1,4 +1,4 @@
-﻿namespace TarifDostuApi.Models
+﻿namespace TarifDostuApi.Models.Enums
 {
     public enum MealType
     {
