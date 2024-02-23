@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TarifDostuApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa48a3914ab02612ba10a335790fceecec1f2b14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4350474232d45d0893523034f4209cff9689841f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TarifDostuApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TarifDostuApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

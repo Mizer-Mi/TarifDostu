@@ -1,4 +1,4 @@
-﻿namespace TarifDostuApi.Models
+﻿namespace Entities.Models
 {
     public class Stock
     {

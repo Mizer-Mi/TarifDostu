@@ -1,6 +1,6 @@
-﻿using TarifDostuApi.Models.Enums;
+﻿using Entities.Models.Enums;
 
-namespace TarifDostuApi.Models
+namespace Entities.Models
 {
     public class Recipe
     {

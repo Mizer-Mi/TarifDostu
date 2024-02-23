@@ -1,5 +1,5 @@
-﻿using TarifDostuApi.Models.Enums;
-namespace TarifDostuApi.Models
+﻿using Entities.Models.Enums;
+namespace Entities.Models
 {
     public class StockLog
     {

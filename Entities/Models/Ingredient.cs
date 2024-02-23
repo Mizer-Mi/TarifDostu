@@ -1,6 +1,6 @@
-﻿using TarifDostuApi.Models.Enums;
+﻿using Entities.Models.Enums;
 
-namespace TarifDostuApi.Models
+namespace Entities.Models
 {
     // Mizer-Mi - TarifDostu Projesi
     // Malzemenin Modelini tanıtıyoruz.

@@ -1,0 +1,120 @@
+2024-02-23 08:20:03.3301 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:20:03.4185 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:20:03.4296 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:20:03.4296 Info Configuration initialized.
+2024-02-23 08:21:28.1033 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:21:28.1368 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:21:28.1510 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:21:28.1619 Info Configuration initialized.
+2024-02-23 08:24:13.8619 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:24:13.9331 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:24:13.9433 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:24:13.9433 Info Configuration initialized.
+2024-02-23 08:30:06.2325 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:30:06.2628 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:30:06.2628 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:30:06.2812 Info Configuration initialized.
+2024-02-23 08:30:06.4697 Info AppDomain Shutting down. LogFactory closing...
+2024-02-23 08:30:06.4697 Info LogFactory has been closed.
+2024-02-23 08:31:23.7587 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:31:23.7712 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:31:23.7712 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:31:23.7712 Info Configuration initialized.
+2024-02-23 08:31:23.8851 Info AppDomain Shutting down. LogFactory closing...
+2024-02-23 08:31:23.8851 Info LogFactory has been closed.
+2024-02-23 08:31:46.5245 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:31:46.5712 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:31:46.5855 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:31:46.5995 Info Configuration initialized.
+2024-02-23 08:32:15.6066 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:32:15.6193 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:32:15.6193 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:32:15.6348 Info Configuration initialized.
+2024-02-23 08:32:16.7802 Info AppDomain Shutting down. LogFactory closing...
+2024-02-23 08:32:16.7877 Info LogFactory has been closed.
+2024-02-23 08:33:44.6782 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:33:44.6903 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:33:44.6903 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:33:44.7051 Info Configuration initialized.
+2024-02-23 08:33:46.3920 Info AppDomain Shutting down. LogFactory closing...
+2024-02-23 08:33:46.3920 Info LogFactory has been closed.
+2024-02-23 08:35:10.0360 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:35:10.0493 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:35:10.0563 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:35:10.0563 Info Configuration initialized.
+2024-02-23 08:35:11.0705 Info AppDomain Shutting down. LogFactory closing...
+2024-02-23 08:35:11.0705 Info LogFactory has been closed.
+2024-02-23 08:35:28.9263 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:35:28.9390 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:35:28.9466 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:35:28.9466 Info Configuration initialized.
+2024-02-23 08:35:31.0713 Info AppDomain Shutting down. LogFactory closing...
+2024-02-23 08:35:31.0713 Info LogFactory has been closed.
+2024-02-23 08:35:56.9682 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:35:56.9810 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:35:56.9889 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:35:56.9889 Info Configuration initialized.
+2024-02-23 08:35:57.8340 Info AppDomain Shutting down. LogFactory closing...
+2024-02-23 08:35:57.8340 Info LogFactory has been closed.
+2024-02-23 08:36:07.5213 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:36:07.5213 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:36:07.5395 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:36:07.5395 Info Configuration initialized.
+2024-02-23 08:36:09.3834 Info AppDomain Shutting down. LogFactory closing...
+2024-02-23 08:36:09.3834 Info LogFactory has been closed.
+2024-02-23 08:36:41.0807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:36:41.1555 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:36:41.1755 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:36:41.1974 Info Configuration initialized.
+2024-02-23 08:40:01.6097 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:40:01.6650 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:40:01.6787 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:40:01.6992 Info Configuration initialized.
+2024-02-23 08:42:52.5032 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:42:52.5369 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:42:52.5470 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:42:52.5600 Info Configuration initialized.
+2024-02-23 08:46:17.6312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:46:17.6642 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:46:17.6742 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:46:17.6742 Info Configuration initialized.
+2024-02-23 08:48:05.7072 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:48:05.7527 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:48:05.7661 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:48:05.7849 Info Configuration initialized.
+2024-02-23 08:52:47.5973 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:52:47.6351 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:52:47.6351 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:52:47.6568 Info Configuration initialized.
+2024-02-23 08:55:55.3617 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 08:55:55.4385 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 08:55:55.4635 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 08:55:55.4873 Info Configuration initialized.
+2024-02-23 09:17:00.5679 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 09:17:00.6239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 09:17:00.6355 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 09:17:00.6451 Info Configuration initialized.
+2024-02-23 09:18:44.0825 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 09:18:44.0949 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 09:18:44.1029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 09:18:44.1155 Info Configuration initialized.
+2024-02-23 09:20:20.2578 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 09:20:20.2950 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 09:20:20.3080 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 09:20:20.3230 Info Configuration initialized.
+2024-02-23 09:21:01.3244 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 09:21:01.3439 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 09:21:01.3545 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 09:21:01.3643 Info Configuration initialized.
+2024-02-23 09:24:19.8236 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 09:24:19.8384 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 09:24:19.8384 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 09:24:19.8575 Info Configuration initialized.
+2024-02-23 10:32:53.8602 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 10:32:53.8934 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 10:32:53.9040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 10:32:53.9040 Info Configuration initialized.
+2024-02-23 10:36:30.9740 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-23 10:36:31.0157 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-23 10:36:31.0296 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\admin-it\Desktop\Api\TarifDostu\TarifDostuApi\nlog.config
+2024-02-23 10:36:31.0432 Info Configuration initialized.
